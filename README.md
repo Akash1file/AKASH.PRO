@@ -20,7 +20,7 @@ PAID TOOLS
 - `pip install requests`
 - `pip install mechanize`
 - `rm -rf AKASH-PRO`
-- `git clone --depth=1 https://github.com/AKASHFILE1/AKASH-PRO.git`
+- `git clone -- https://github.com/Akash1file/AKASH-PRO
 - `cd AKASH-PRO`
 - `python AKASH.PRO.py`
 
